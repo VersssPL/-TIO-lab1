@@ -1,0 +1,6 @@
+E:\Backup\backup\Studia\6 semestr\TIO\Zad1\Zad1\bin\Debug\Zad1.exe.config
+E:\Backup\backup\Studia\6 semestr\TIO\Zad1\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\Zad1\Zad1\bin\Debug\Zad1.exe
+E:\Backup\backup\Studia\6 semestr\TIO\Zad1\Zad1\bin\Debug\Zad1.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\Zad1\Zad1\obj\Debug\Zad1.exe
+E:\Backup\backup\Studia\6 semestr\TIO\Zad1\Zad1\obj\Debug\Zad1.pdb
